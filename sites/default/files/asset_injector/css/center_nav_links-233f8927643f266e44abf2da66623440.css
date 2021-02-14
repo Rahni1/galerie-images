@@ -1,0 +1,9 @@
+.menu {
+text-align: center;
+}
+
+.region-primary-menu .block-menu .menu {
+display: table;
+margin: 0 auto;
+font-weight: 700;
+}

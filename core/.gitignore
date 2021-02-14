@@ -1,0 +1,65 @@
+# Ignore node_modules folder created when installing core's JavaScript
+# dependencies.
+node_modules
+yarn-error.log
+
+# Ignore overrides of core's phpcs.xml.dist and phpunit.xml.dist.
+phpcs.xml
+phpunit.xml
+
+# Ignore package-lock.json that is automatically created when adding
+# dependencies by users of NPMv5.
+package-lock.json
+
+# Ignore test reports
+reports
+
+# Ignore local Nightwatch settings
+nightwatch.settings.json
+
+# Ignore dotenv
+.env
+sites/*/*settings*.php
+/sites/*/*services*.yml
+
+# Ignore paths that may contain user-generated content
+/sites/*/files
+/sites/*/public
+/sites/*/private
+/sites/*/files-public
+/sites/*/files-private
+
+# Ignore paths that may contain temporary files
+/sites/*/translations
+/sites/*/tmp
+/sites/*/cache
+
+# Ignore testing related files
+/sites/simpletest
+
+# Ignore drupal core (if not versioning drupal sources)
+/core
+/vendor
+/modules/README.txt
+/profiles/README.txt
+/themes/README.txt
+/sites/README.txt
+/sites/example.sites.php
+/sites/example.settings.local.php
+/sites/development.services.yml
+/.csslintrc
+/.editorconfig
+/.eslintignore
+/.eslintrc.json
+/.gitattributes
+/.ht.router.php
+/.htaccess
+/autoload.php
+/example.gitignore
+/index.php
+INSTALL.txt
+LICENSE.txt
+README.txt
+/robots.txt
+/update.php
+/web.config
