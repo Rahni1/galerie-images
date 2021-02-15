@@ -7,7 +7,7 @@
 </p>
 
 ## Photos de la catégorie spécifiée (les voitures)
-<img width="450" alt="Photos des voitures" src="https://user-images.githubusercontent.com/48180359/107997590-62c0e480-6fe3-11eb-8d53-af4e449fbe41.png">
+<img width="450" alt="Photos des voitures" src="https://user-images.githubusercontent.com/48180359/108000835-24c7be80-6feb-11eb-8f96-7e99b5512d12.png">
 
 ## Photos de la catégorie spécifiée (la nature)
-<img width="450" alt="Photos de la nature" src="https://user-images.githubusercontent.com/48180359/107997485-21c8d000-6fe3-11eb-8f66-f2314f913b14.png">
+<img width="450" alt="Photos de la nature" src="https://user-images.githubusercontent.com/48180359/108001018-a28bca00-6feb-11eb-9785-bc3c7a735b5b.png">
