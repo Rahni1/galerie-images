@@ -2,8 +2,8 @@
 
 ## Galerie - tous les photos
 <p class="float-left">
-<img width="44%" alt="Galerie Photo" src="https://user-images.githubusercontent.com/48180359/107989611-ee7e4500-6fd2-11eb-96f7-113ad3c5a3ee.png">
-<img width="44%" alt="pagination" src="https://user-images.githubusercontent.com/48180359/107990045-d6f38c00-6fd3-11eb-869e-87473b4a6c10.png">
+<img width="450px" alt="Galerie Photo" src="https://user-images.githubusercontent.com/48180359/107989611-ee7e4500-6fd2-11eb-96f7-113ad3c5a3ee.png">
+<img width="450px" alt="pagination" src="https://user-images.githubusercontent.com/48180359/107990045-d6f38c00-6fd3-11eb-869e-87473b4a6c10.png">
 </p>
 
 ## Photos de la catégorie spécifiée (les voitures)
